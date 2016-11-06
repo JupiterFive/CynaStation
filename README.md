@@ -18,5 +18,4 @@ This is only one of the possible ways to play as this antagonist. The versatilit
 Harry Potter, Eragon, Beyonders, The Elder Scrolls, World of Warcraft, Dark Souls, the Legend of Zelda.
 
 # THANK YOU SO MUCH TO:
-- The Goons at Goonstation for providing a foundation on which I will be building this project. https://github.com/goonstation/goonstation-2016
 - The beloved monsters working on /tg/station and /vg/station for providing access to their respective codebases 
